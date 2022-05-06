@@ -6,5 +6,13 @@
     "bajada": "Ya casi llega!",
     "deeplink": "belo://card",
     "createdAt": 1651848070807
+  },
+  {
+    "ID": "2900cbcc-7545-4b58-8060-da6bfa10409b",
+    "Titulo": "Entregamos tu tarjeta",
+    "thumbnail": "https://bitcoin.org/img/icons/opengraph.png?1651392467",
+    "bajada": "disfrutala",
+    "deeplink": "belo://card-delivered",
+    "createdAt": 1651848091425
   }
 ]
